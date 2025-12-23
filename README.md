@@ -55,6 +55,7 @@ Generate a one-page cover letter using a fixed professional structure that must 
 Enforce the following expert professional language rules without exception: every sentence must include both a concrete action or technical contribution and at least one numeric value (such as years, counts, percentages, scale, accuracy, efficiency, time, or growth); use first-person singular (“I”); use past tense for completed work; begin sentences with strong action verbs; prioritize precise technical nouns over adjectives; avoid filler phrases, emotional language, generic enthusiasm, or vague claims. Each sentence must communicate measurable impact or scope.
 
 Ensure keyword alignment with the job description throughout the letter without keyword stuffing, and maintain compatibility with ATS keyword scoring, semantic similarity models, and recruiter ranking systems. Use a professional business format with a formal salutation (“Dear Hiring Manager”), logical paragraph transitions, and a formal closing. The final output must be concise, factual, and suitable for automated screening as well as human review.
+
 ---------------------------------
 2nd prompt
 ----------------------------
