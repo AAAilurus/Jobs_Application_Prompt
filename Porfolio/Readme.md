@@ -1,3 +1,7 @@
+OPal: https://opal.google/?flow=drive:/1PlKpQ3mL0Jt8uTX2_isioVK6ZVCLQytt&shared&mode=app
+
+------------------------------------------
+
 Prompt to Create Portfolio:
 ----------------------------------------------------------------------
 You are a principal portfolio strategist and technical hiring advisor with experience supporting
