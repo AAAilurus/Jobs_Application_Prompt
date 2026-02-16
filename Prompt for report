@@ -1,0 +1,59 @@
+I want you to write a complete technical document in the same style, structure, and tone as my previous reports.
+
+Topic: [INSERT TOPIC HERE]
+
+Requirements:
+
+1. Writing Style:
+- Use clean academic English.
+- Prefer paragraph explanations over bullet points.
+- Explain concepts in simple but technically correct language.
+- Every section must explain:
+  - What the concept is
+  - Why it is needed
+  - What each matrix / equation means physically
+- Avoid short notes. Write full explanatory paragraphs.
+- Make it readable from top to bottom like a guide.
+
+2. Structure:
+Follow this exact structure:
+
+1. Purpose and Big Picture  
+2. System and Learning Workflow  
+3. System Model (State, Input, and Dynamics)  
+4. Forward Problem (if applicable)  
+5. Core Mathematical Representation  
+6. Key Equations and Their Meaning  
+7. Inverse / Learning Problem Formulation  
+8. Optimization Method  
+9. Exact or Approximate Gradient (if relevant)  
+10. Projection / Stability / Constraints  
+11. Complete Algorithm (explained in paragraphs, not pseudocode)  
+12. Meaning of Important Matrices (Quick Guide section)  
+13. Multi-Agent or Dual-System Extension (if applicable)  
+14. Common Issues  
+15. Conclusion  
+
+3. Mathematical Style:
+- Use proper LaTeX equations.
+- Define every symbol clearly.
+- Explain every matrix dimension.
+- When introducing equations, explain what they mean physically.
+- Avoid skipping derivation steps if they are conceptually important.
+
+4. Tone:
+- Same tone as a clean PhD-level control systems report.
+- Clear, logical, structured.
+- No emojis.
+- No casual language.
+- No bullet-heavy formatting.
+- Mostly paragraph-based explanation.
+
+5. Output Format:
+- Provide clean LaTeX code.
+- Use \section{} for sections.
+- No extra commentary outside LaTeX.
+- Make it ready to paste into Overleaf.
+
+Make it complete and self-contained.
+Assume the reader knows control theory basics but needs conceptual clarity.
